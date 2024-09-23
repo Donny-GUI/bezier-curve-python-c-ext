@@ -1,6 +1,26 @@
 # bezier-curve-python-c-ext
 Python C extension to generate Bézier curve points
 
+# Examples
+importing module
+```Python3
+import bezier
+from bezier import *
+from bezier import (
+  pascal_row,
+  generate_control_points,
+  Bezier,
+  
+```
+using functions
+```Python3
+
+
+```
+```Python3
+
+
+```
 
 # Getting Started
 
